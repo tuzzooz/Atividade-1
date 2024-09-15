@@ -24,7 +24,6 @@ li, a, button{
 
 header{
     display: flex;
-    /*justify-content: space-between;*/
     justify-content: flex-end;
     align-items: center;
     height: 82px;
@@ -32,7 +31,9 @@ header{
 }
 
 .logo{
-    margin-right: auto;
+    display: flex;
+   margin-right: auto;
+   align-items: center;
 }
 
 .nav-links{
