@@ -7,9 +7,8 @@
 }
 
 body{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+    margin: 20px 150px 0px;
+    max-width: 80%;
     background-color: black;
     font-family: "Poppins";
 
